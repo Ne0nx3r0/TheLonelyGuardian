@@ -1,0 +1,6 @@
+name: TheLonelyGuardian
+main: com.gmail.ne0nx3r0.lonelyguardian.TheLonelyGuardian
+version: '1.5'
+commands:
+  guardian: 
+    description: Guardian commands
